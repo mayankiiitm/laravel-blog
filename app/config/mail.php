@@ -93,7 +93,7 @@ return array(
 	|
 	*/
 
-	'password' => 'mayankiiitm25#',
+	'password' => '', //enter password
 
 	/*
 	|--------------------------------------------------------------------------
